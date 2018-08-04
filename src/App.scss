@@ -163,22 +163,34 @@ header {
     display: block;
   }
 
-  .blog-link {
-    display: block;
-    background: #fff;
+  nav {
     position: absolute;
-    top: 25px;
-    right: -25px;
-    font-weight: 900;
-    font-size: 1.6rem;
-    text-transform: uppercase;
-    -webkit-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    transform: rotate(270deg);
-    z-index: 999;
-    padding: 10px 0;
-    width: 92px;
-    text-align: center;
+    top: 34px;
+    right: 0px;
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      line-height: 1;
+
+      li {
+        display: inline-block;
+        padding: 0 10px 0 0;
+        margin: 0 10px 0 0;
+        border-right: 1px solid $cAction;
+
+        &:last-child {
+          border: none;
+        }
+
+        a {
+          display: block;
+          background: $cW;
+          padding: 3px 6px;
+        }
+      }
+    }
   }
 }
 
