@@ -64,7 +64,7 @@ class App extends Component {
                         <ul className="social">
                             <li>
                                 <a href="https://www.linkedin.com/in/nathanolmstead/" target="_blank" rel="noopener noreferrer"  title="LinkedIn">
-                                    <i className="fa fa-linkedin" aria-hidden="true"></i>
+                                    <i className="fab fa-linkedin" aria-hidden="true"></i>
                                 </a>
                             </li>
                         </ul>
@@ -84,7 +84,7 @@ class App extends Component {
                         <ul className="social">
                             <li>
                                 <a href="https://www.linkedin.com/in/micah-lunt-8322a752/" target="_blank" rel="noopener noreferrer"  title="LinkedIn">
-                                    <i className="fa fa-linkedin" aria-hidden="true"></i>
+                                    <i className="fab fa-linkedin" aria-hidden="true"></i>
                                 </a>
                             </li>
                         </ul>
