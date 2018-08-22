@@ -4,10 +4,5 @@
     "/**": {
       "Strict-Transport-Security": "max-age=7776000"
     }
-  },
-  "redirects": {
-    "/": {
-      "url": "https://www.a2uned.io"
-    }
   }
 }
