@@ -8,10 +8,10 @@ export default function Header() {
       <nav>
         <ul>
           <li>
-            <a href="https://www.a2unedsolutions.com">a2unedsolutions.com</a>
+            <a href="https://www.a2unedsolutions.com" target="_blank" rel="noopener noreferrer">a2unedsolutions.com</a>
           </li>
           <li>
-            <a href="https://blog.a2unedsolutions.com">blog</a>
+            <a href="https://blog.a2unedsolutions.com" target="_blank" rel="noopener noreferrer">blog</a>
           </li>
         </ul>
       </nav>
