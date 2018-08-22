@@ -1,5 +1,5 @@
 # A2uned.io Web Application
-[a2unedsolutions.com](https://www.a2unedsolutions.com) was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+[a2unedsolutions.io](https://www.a2uned.io) was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 #### After cloning or downloading the project
 ```sh
